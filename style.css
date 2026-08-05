@@ -16,3 +16,8 @@ p {
     font-size: 18px;
     line-height: 1.6;
 }
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
