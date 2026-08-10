@@ -1,1 +1,1 @@
-console.log("JavaScript funcionando!");
+alert("Bem-vindo ao meu portfólio");
