@@ -28,7 +28,7 @@ p {
     border-radius:10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
-a {
+.botao{
     display: inline-block;
     padding: 10px 16px;
     background-color: #556B2F;
@@ -39,7 +39,7 @@ a {
     transition: 0.3s;
 }
 
-a:hover {
+.botao:hover {
     background-color: #3F5222;
     transform: translateY(-2px);
     opacity: 0.9;
