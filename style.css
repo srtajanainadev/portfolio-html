@@ -31,7 +31,7 @@ p {
 a {
     display: inline-block;
     padding: 10px 16px;
-    background-color: #1e88e5;
+    background-color: #556B2F;
     color: white;
     border-radius: 8px;
     text-decoration: none;
@@ -40,6 +40,7 @@ a {
 }
 
 a:hover {
+    background-color: #3F5222;
     transform: translateY(-2px);
     opacity: 0.9;
 }
